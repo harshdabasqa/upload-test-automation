@@ -1,10 +1,10 @@
 {
 	"info": {
-		"_postman_id": "4be7a2f7-a497-4186-9036-c1aeaa42ed5b",
+		"_postman_id": "5e3bd754-5c54-4845-994f-a3b17a6e08d5",
 		"name": "Upload-TestSuite",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "7409667",
-		"_collection_link": "https://interstellar-satellite-4024.postman.co/workspace/QA~1c609484-b2b1-4657-9c67-a49ef010af09/collection/7409667-4be7a2f7-a497-4186-9036-c1aeaa42ed5b?action=share&source=collection_link&creator=7409667"
+		"_collection_link": "https://interstellar-satellite-4024.postman.co/workspace/QA~1c609484-b2b1-4657-9c67-a49ef010af09/collection/7409667-5e3bd754-5c54-4845-994f-a3b17a6e08d5?action=share&source=collection_link&creator=7409667"
 	},
 	"item": [
 		{
@@ -96,7 +96,7 @@
 					]
 				},
 				"url": {
-					"raw": "https://xray.cloud.getxray.app/api/v2/import/feature?projectKey=CDT",
+					"raw": "https://xray.cloud.getxray.app/api/v2/import/feature?projectKey=",
 					"protocol": "https",
 					"host": [
 						"xray",
@@ -113,7 +113,7 @@
 					"query": [
 						{
 							"key": "projectKey",
-							"value": "CDT"
+							"value": ""
 						}
 					]
 				}
