@@ -1,0 +1,6 @@
+1. Set environment in postman
+2. Get client_id & client_secret from JIRA admin, we need this to fetch XRAY token 
+3. In Authenticate X-ray, we need to pass client_id & client_secret
+4. In Upload Test-cases API, we need to pass projectKey & featureFile. 
+5. In Get IssueID of TestSet, we need to pass TestSetID.
+6. At last, Hit Map-TestSet to Test cases. 
